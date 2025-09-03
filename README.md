@@ -3,7 +3,7 @@ This project is suitable for DATA SCRAPING beginner.
 In the project I used:
   1. requests (make a request to the web)
   2. BeautifulSoup (scrape information from the web "F12")
-  3. FakeUserAgent (ramdon User-Agent prevent banning from request many times)
+  3. FakeUserAgent (random User-Agent prevent banning from request many times)
   4. threading (improve efficiency)
   5. pandas (sort data and write to Excel)
 
